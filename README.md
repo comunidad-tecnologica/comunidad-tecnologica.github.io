@@ -1,3 +1,5 @@
+
+
 # Comunidad Tecnológica
 
 ## Objetivo
@@ -49,9 +51,17 @@ Centralizar en un único lugar todos los repositorios de recursos de interés pa
 ¿Tienes un repositorio con recursos de interés para la comunidad?
 
 1. [Solicita ser miembro](https://github.com/comunidad-tecnologica/comunidad-tecnologica/issues/new?assignees=rachelcarmena&labels=&template=plantilla-para-solicitar-ser-miembro.md&title=) indicándonos tu repositorio.
-2. [OPCIONAL] Una vez seas miembro, tienes la opción de hacer un `fork` de tu repositorio en la organización `comunidad-tecnologica` (y mantener ambos remotos actualizados) o bien, puedes cambiar el propietario del repositorio por `comunidad-tecnologica`. Esto es **opcional**, porque tal vez haya personas que no quieran ningún cambio de los propuestos. En cualquier caso, los repositorios que se incluyan mantendrán las guías de colaboración que marque su propietario original. 
+2. [OPCIONAL] Una vez seas miembro, tienes la opción de hacer un `fork` de tu repositorio en la organización `comunidad-tecnologica` (y mantener ambos remotos actualizados) o bien, puedes cambiar el propietario del repositorio por `comunidad-tecnologica`. Esto es **opcional**, porque tal vez haya personas que no quieran ningún cambio de los propuestos. En cualquier caso, los repositorios que se incluyan mantendrán las guías de colaboración que marque su propietario original.
 
 Tan pronto aceptes la invitación, añadiremos tu repositorio en el listado de recursos de esta página.
+
+### Nota
+
+En caso de que el repositorio no se encuentre ubicado en la "organización" de Comunidad Tecnológica, te agradecemos que incluyas el siguiente texto en el fichero README.md de tu repositorio para que aparezca el icono ![Mencionado en Comunidad Tecnológica](https://github.com/comunidad-tecnologica/comunidad-tecnologica/blob/master/img/comunidad-tecnologica.svg)
+
+```
+[![Mencionado en Comunidad Tecnológica](https://github.com/comunidad-tecnologica/comunidad-tecnologica/blob/master/img/comunidad-tecnologica.svg)](https://github.com/comunidad-tecnologica/comunidad-tecnologica)
+```
 
 ## Cómo colaborar con un repositorio en concreto
 
