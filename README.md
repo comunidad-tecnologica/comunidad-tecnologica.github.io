@@ -38,10 +38,8 @@ Centralizar en un único lugar todos los repositorios de recursos de interés pa
 ¿Tienes un repositorio con recursos de interés para la comunidad?
 
 1. [Solicita ser miembro](https://github.com/comunidad-tecnologica/comunidad-tecnologica/issues/new?assignees=rachelcarmena&labels=&template=plantilla-para-solicitar-ser-miembro.md&title=) indicándonos tu repositorio.
-2. Una vez seas miembro, podrás hacer un `fork` de tu repositorio en la organización `comunidad-tecnologica`. O bien, puedes cambiar el propietario del repositorio por `comunidad-tecnologica`. Lo que prefieras.
+2. [OPCIONAL] Una vez seas miembro, tienes la opción de hacer un `fork` de tu repositorio en la organización `comunidad-tecnologica` (y mantener ambos remotos actualizados) o bien, puedes cambiar el propietario del repositorio por `comunidad-tecnologica`. Esto es **opcional**, porque tal vez haya personas que no quieran ningún cambio de los propuestos. En cualquier caso, los repositorios que se incluyan mantendrán las guías de colaboración que marque su propietario original. 
 3. Añade tu repositorio en el listado de recursos de esta página.
-
-Cada repositorio mantendrá las guías de colaboración que marque su propietario original.
 
 ## Cómo colaborar con un repositorio en concreto
 
