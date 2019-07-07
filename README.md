@@ -23,6 +23,17 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
         <sub><b>Nicolás Patarino</b></sub>
       </a>
     </td>
+    <!-- DIVERSIDAD -->
+    <td align="center">
+      <p><a href="https://github.com/folkswhocode/awesome-diversity">
+        :sparkles: Diversidad
+      </a></p>
+      <p><sub>Autor:</sub></p>
+      <a href="https://github.com/folkswhocode">
+        <img src="https://avatars3.githubusercontent.com/u/31612966?s=200&v=4"  width="100px" alt=""><br />
+        <sub><b>Folks Who Code</b></sub>
+      </a>
+    </td>
     <!-- GRUPOS DE SLACK -->
     <td align="center">
       <p><a href="https://github.com/comunidad-tecnologica/awesome-spanish-slack-dev-groups">
