@@ -11,6 +11,10 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
 ## Recursos generales
 
 <table>
+  <tr>
+    <th></th>
+    <th>Equipo encargado del mantenimiento</th>
+  </tr>
   <!-- CONFERENCIAS -->
   <tr>
     <td align="center">
@@ -103,6 +107,10 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
 ## Por provincia
 
 <table>
+  <tr>
+    <th></th>
+    <th>Equipo encargado del mantenimiento</th>
+  </tr>
   <!-- A CORUÑA -->
   <tr>
     <td align="center">
@@ -136,6 +144,18 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
       <a href="https://github.com/cristinaverdi">
         <img src="https://avatars0.githubusercontent.com/u/13377065?s=460&v=4" width="60px" alt=""><br />
         <sub><b>Cristina Verdi</b></sub>
+      </a>
+    </td>
+  </tr>
+  <!-- CASTELLÓN -->
+  <tr>
+    <td align="center">
+      Castellón<br />(próximamente)
+    </td>
+    <td align="center">
+      <a href="https://github.com/borillo">
+        <img src="https://avatars1.githubusercontent.com/u/570960?s=460&v=4" width="60px" alt=""><br />
+        <sub><b>Ricardo Borillo</b></sub>
       </a>
     </td>
   </tr>
