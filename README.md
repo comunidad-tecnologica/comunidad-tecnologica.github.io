@@ -183,6 +183,18 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
       </a>
     </td>
   </tr>
+  <!-- MALLORCA -->
+  <tr>
+    <td align="center">
+      Mallorca<br />(próximamente)
+    </td>
+    <td align="center">
+      <a href="https://github.com/jllado">
+        <img src="https://avatars0.githubusercontent.com/u/628929?s=460&v=4" width="60px" alt=""><br />
+        <sub><b>Juan Lladó</b></sub>
+      </a>
+    </td>
+  </tr>
   <!-- TARRAGONA -->
   <tr>
     <td align="center">
