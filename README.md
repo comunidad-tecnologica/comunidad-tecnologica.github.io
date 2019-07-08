@@ -139,6 +139,18 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
       </a>
     </td>
   </tr>
+  <!-- CÓRDOBA -->
+  <tr>
+    <td align="center">
+      Córdoba<br />(próximamente)
+    </td>
+    <td align="center">
+      <a href="https://github.com/aartiles">
+        <img src="https://avatars0.githubusercontent.com/u/92608?s=460&v=4" width="60px" alt=""><br />
+        <sub><b>Alfredo Artiles</b></sub>
+      </a>
+    </td>
+  </tr>
   <!-- MADRID -->
   <tr>
     <td align="center">
