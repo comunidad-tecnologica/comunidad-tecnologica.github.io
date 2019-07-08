@@ -147,6 +147,18 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
       </a>
     </td>
   </tr>
+  <!-- CANARIAS -->
+  <tr>
+    <td align="center">
+      Canarias<br />(próximamente)
+    </td>
+    <td align="center">
+      <a href="https://github.com/yodra">
+        <img src="https://avatars0.githubusercontent.com/u/7188403?s=460&v=4" width="60px" alt=""><br />
+        <sub><b>Yodra López</b></sub>
+      </a>
+    </td>
+  </tr>
   <!-- CASTELLÓN -->
   <tr>
     <td align="center">
