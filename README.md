@@ -183,6 +183,18 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
       </a>
     </td>
   </tr>
+  <!-- TARRAGONA -->
+  <tr>
+    <td align="center">
+      Tarragona<br />(próximamente)
+    </td>
+    <td align="center">
+      <a href="https://github.com/vgalcera">
+        <img src="https://pbs.twimg.com/profile_images/600353062658641921/pKjyZM9U_400x400.jpg" width="60px" alt=""><br />
+        <sub><b>Vanessa Galcera</b></sub>
+      </a>
+    </td>
+  </tr>
   <!-- VALENCIA -->
   <tr>
     <td align="center">
