@@ -103,6 +103,7 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
 ## Por provincia
 
 <table>
+  <!-- A CORUÑA -->
   <tr>
     <td align="center">
       A Coruña<br />(próximamente)
@@ -114,6 +115,7 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
       </a>
     </td>
   </tr>
+  <!-- ASTURIAS -->
   <tr>
     <td align="center">
       Asturias<br />(próximamente)
@@ -125,6 +127,19 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
       </a>
     </td>
   </tr>
+  <!-- BARCELONA -->
+  <tr>
+    <td align="center">
+      Barcelona<br />(próximamente)
+    </td>
+    <td align="center">
+      <a href="https://github.com/cristinaverdi">
+        <img src="https://avatars0.githubusercontent.com/u/13377065?s=460&v=4" width="60px" alt=""><br />
+        <sub><b>Cristina Verdi</b></sub>
+      </a>
+    </td>
+  </tr>
+  <!-- VALENCIA -->
   <tr>
     <td align="center">
       <a href="https://github.com/comunidad-tecnologica/valencia">
@@ -138,6 +153,7 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
       </a>
     </td>
   </tr>
+  <!-- INVITACIÓN A NUEVAS COLABORACIONES -->
   <tr>
     <td align="center">
       Tu provincia
