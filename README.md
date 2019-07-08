@@ -159,6 +159,18 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
       </a>
     </td>
   </tr>
+  <!-- CASTILLA Y LEÓN -->
+  <tr>
+    <td align="center">
+      Castilla y León<br />(próximamente)
+    </td>
+    <td align="center">
+      <a href="https://github.com/amaliahern">
+        <img src="https://avatars0.githubusercontent.com/u/304761?s=460&v=4" width="60px" alt=""><br />
+        <sub><b>Amalia Hernández</b></sub>
+      </a>
+    </td>
+  </tr>
   <!-- CÓRDOBA -->
   <tr>
     <td align="center">
