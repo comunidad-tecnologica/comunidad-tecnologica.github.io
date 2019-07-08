@@ -193,4 +193,6 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
 
 ## Cómo colaborar
 
+Las personas que aparecen en esta página son las que mantienen los repositorios, pero no es necesario que exista una única persona por cada uno de ellos. Una vez seas miembro, puedes invitar a más personas y añadirlas para que te ayuden con el mantenimiento (revisión de _pull request_, comunicación, etc).
+
 :book: [Consulta la guía de colaboración](CONTRIBUTING.md).
