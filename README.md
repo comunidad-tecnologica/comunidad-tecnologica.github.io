@@ -139,6 +139,18 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
       </a>
     </td>
   </tr>
+  <!-- MADRID -->
+  <tr>
+    <td align="center">
+      Madrid<br />(próximamente)
+    </td>
+    <td align="center">
+      <a href="https://github.com/dgomezg">
+        <img src="https://avatars2.githubusercontent.com/u/1894346?s=460&v=4" width="60px" alt=""><br />
+        <sub><b>David Gómez</b></sub>
+      </a>
+    </td>
+  </tr>
   <!-- VALENCIA -->
   <tr>
     <td align="center">
