@@ -171,9 +171,9 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/rachelcarmena">
-        <img src="https://avatars2.githubusercontent.com/u/22792183?s=460&v=4" width="60px" alt=""><br />
-        <sub><b>Raquel M. Carmena</b></sub>
+      <a href="https://github.com/hell03610">
+        <img src="https://avatars0.githubusercontent.com/u/581607?s=460&v=4" width="60px" alt=""><br />
+        <sub><b>Emma López</b></sub>
       </a>
     </td>
   </tr>
