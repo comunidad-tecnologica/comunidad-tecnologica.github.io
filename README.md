@@ -102,7 +102,7 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
 
 ## Por provincia
 
-Asturias (próximamente, por [Azahara Fernández](https://github.com/azaharafernandezguizan)) - [Valencia](https://github.com/comunidad-tecnologica/valencia) - [:bulb: Aquí puede aparecer tu provincia](CONTRIBUTING.md)
+A Coruña (próximamente, por [Borja Fernández](https://github.com/BorjaL)) - Asturias (próximamente, por [Azahara Fernández](https://github.com/azaharafernandezguizan)) - [Valencia](https://github.com/comunidad-tecnologica/valencia) - [:bulb: Aquí puede aparecer tu provincia](CONTRIBUTING.md)
 
 ## Cómo colaborar
 
