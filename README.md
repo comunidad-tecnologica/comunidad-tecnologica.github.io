@@ -102,7 +102,54 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
 
 ## Por provincia
 
-A Coruña (próximamente, por [Borja Fernández](https://github.com/BorjaL)) - Asturias (próximamente, por [Azahara Fernández](https://github.com/azaharafernandezguizan)) - [Valencia](https://github.com/comunidad-tecnologica/valencia) - [:bulb: Aquí puede aparecer tu provincia](CONTRIBUTING.md)
+<table>
+  <tr>
+    <td align="center">
+      A Coruña<br />(próximamente)
+    </td>
+    <td align="center">
+      <a href="https://github.com/BorjaL">
+        <img src="https://avatars0.githubusercontent.com/u/570759?s=460&v=4" width="60px" alt=""><br />
+        <sub><b>Borja Fernández</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      Asturias<br />(próximamente)
+    </td>
+    <td align="center">
+      <a href="https://github.com/azaharafernandezguizan">
+        <img src="https://avatars3.githubusercontent.com/u/13187806?s=400&v=4" width="60px" alt=""><br />
+        <sub><b>Azahara Fernández</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/comunidad-tecnologica/valencia">
+        Valencia
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rachelcarmena">
+        <img src="https://avatars2.githubusercontent.com/u/22792183?s=460&v=4" width="60px" alt=""><br />
+        <sub><b>Raquel M. Carmena</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      Tu provincia
+    </td>
+    <td align="center">
+      <a href="https://github.com/comunidad-tecnologica/comunidad-tecnologica/blob/master/CONTRIBUTING.md">
+        <img src="https://github.com/identicons/jasonlong.png" width="60px" alt=""><br />
+        <sub><b>Tú también puedes aparecer aquí</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Cómo colaborar
 
