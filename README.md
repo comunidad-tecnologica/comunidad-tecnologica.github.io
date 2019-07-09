@@ -65,7 +65,10 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
       </a>
     </td>
     <td align="center">
-      (En proceso de búsqueda)
+      <a href="https://github.com/mericp">
+        <img src="https://avatars3.githubusercontent.com/u/5872813?s=460&v=4" width="60px" alt=""><br />
+        <sub><b>Meritxell Calvo</b></sub>
+      </a>
     </td>
   </tr>
   <!-- SALUD MENTAL -->
