@@ -176,6 +176,24 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
       </a>
     </td>
   </tr>
+  <!-- BILBAO -->
+  <tr>
+    <td align="center">
+      Bilbao<br />(próximamente)
+    </td>
+    <td align="center">
+      <a href="https://github.com/ipinto">
+        <img src="https://avatars0.githubusercontent.com/u/5419129?s=460&v=4" width="60px" alt=""><br />
+        <sub><b>Imanol Pinto</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/aaguila">
+        <img src="https://avatars3.githubusercontent.com/u/6283257?s=460&v=4" width="60px" alt=""><br />
+        <sub><b>Aritz Aguila</b></sub>
+      </a>
+    </td>
+  </tr>
   <!-- CANARIAS -->
   <tr>
     <td align="center">
