@@ -104,7 +104,7 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
   </tr>
 </table>
 
-## Información por provincia
+## Información por provincia o comunidad autónoma
 
 <table>
   <tr>
