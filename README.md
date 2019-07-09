@@ -269,6 +269,24 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
       </a>
     </td>
   </tr>
+  <!-- MÁLAGA -->
+  <tr>
+    <td align="center">
+      Málaga<br />(próximamente)
+    </td>
+    <td align="center">
+      <a href="https://github.com/deors">
+        <img src="https://avatars3.githubusercontent.com/u/4376867?s=460&v=4" width="60px" alt=""><br />
+        <sub><b>Jorge Hidalgo</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nandosola">
+        <img src="https://avatars3.githubusercontent.com/u/125445?s=460&v=4" width="60px" alt=""><br />
+        <sub><b>Nando Sola</b></sub>
+      </a>
+    </td>
+  </tr>
   <!-- MALLORCA -->
   <tr>
     <td align="center">
