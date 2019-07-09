@@ -120,14 +120,14 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
 <table>
   <tr>
     <th></th>
-    <th>Equipo encargado del mantenimiento</th>
+    <th colspan="2">Equipo encargado del mantenimiento</th>
   </tr>
   <!-- A CORUÑA -->
   <tr>
     <td align="center">
       A Coruña<br />(próximamente)
     </td>
-    <td align="center">
+    <td align="center" colspan="2">
       <a href="https://github.com/BorjaL">
         <img src="https://avatars0.githubusercontent.com/u/570759?s=460&v=4" width="60px" alt=""><br />
         <sub><b>Borja Fernández</b></sub>
@@ -138,6 +138,12 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
   <tr>
     <td align="center">
       Alicante<br />(próximamente)
+    </td>
+    <td align="center">
+      <a href="https://github.com/rubocoptero">
+        <img src="https://avatars3.githubusercontent.com/u/2010472?s=460&v=4" width="60px" alt=""><br />
+        <sub><b>Rubén Antón</b></sub
+      </a>
     </td>
     <td align="center">
       <a href="https://github.com/islomar">
@@ -151,7 +157,7 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
     <td align="center">
       Asturias<br />(próximamente)
     </td>
-    <td align="center">
+    <td align="center" colspan="2">
       <a href="https://github.com/azaharafernandezguizan">
         <img src="https://avatars3.githubusercontent.com/u/13187806?s=400&v=4" width="60px" alt=""><br />
         <sub><b>Azahara Fernández</b></sub>
@@ -163,7 +169,7 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
     <td align="center">
       Barcelona<br />(próximamente)
     </td>
-    <td align="center">
+    <td align="center" colspan="2">
       <a href="https://github.com/cristinaverdi">
         <img src="https://avatars0.githubusercontent.com/u/13377065?s=460&v=4" width="60px" alt=""><br />
         <sub><b>Cristina Verdi</b></sub>
@@ -175,7 +181,7 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
     <td align="center">
       Canarias<br />(próximamente)
     </td>
-    <td align="center">
+    <td align="center" colspan="2">
       <a href="https://github.com/yodra">
         <img src="https://avatars0.githubusercontent.com/u/7188403?s=460&v=4" width="60px" alt=""><br />
         <sub><b>Yodra López</b></sub>
@@ -187,7 +193,7 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
     <td align="center">
       Castellón<br />(próximamente)
     </td>
-    <td align="center">
+    <td align="center" colspan="2">
       <a href="https://github.com/borillo">
         <img src="https://avatars1.githubusercontent.com/u/570960?s=460&v=4" width="60px" alt=""><br />
         <sub><b>Ricardo Borillo</b></sub>
@@ -199,7 +205,7 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
     <td align="center">
       Castilla y León<br />(próximamente)
     </td>
-    <td align="center">
+    <td align="center" colspan="2">
       <a href="https://github.com/amaliahern">
         <img src="https://avatars0.githubusercontent.com/u/304761?s=460&v=4" width="60px" alt=""><br />
         <sub><b>Amalia Hernández</b></sub>
@@ -211,7 +217,7 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
     <td align="center">
       Córdoba<br />(próximamente)
     </td>
-    <td align="center">
+    <td align="center" colspan="2">
       <a href="https://github.com/aartiles">
         <img src="https://avatars0.githubusercontent.com/u/92608?s=460&v=4" width="60px" alt=""><br />
         <sub><b>Alfredo Artiles</b></sub>
@@ -223,7 +229,7 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
     <td align="center">
       Madrid<br />(próximamente)
     </td>
-    <td align="center">
+    <td align="center" colspan="2">
       <a href="https://github.com/dgomezg">
         <img src="https://avatars2.githubusercontent.com/u/1894346?s=460&v=4" width="60px" alt=""><br />
         <sub><b>David Gómez</b></sub>
@@ -235,7 +241,7 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
     <td align="center">
       Mallorca<br />(próximamente)
     </td>
-    <td align="center">
+    <td align="center" colspan="2">
       <a href="https://github.com/jllado">
         <img src="https://avatars0.githubusercontent.com/u/628929?s=460&v=4" width="60px" alt=""><br />
         <sub><b>Juan Lladó</b></sub>
@@ -247,7 +253,7 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
     <td align="center">
       Navarra<br />(cuando termine<br />la fiesta de San Fermín)
     </td>
-    <td align="center">
+    <td align="center" colspan="2">
       <a href="https://github.com/pabloalbizu">
         <img src="https://avatars0.githubusercontent.com/u/3223601?s=460&v=4" width="60px" alt=""><br />
         <sub><b>Pablo Albizu</b></sub>
@@ -259,7 +265,7 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
     <td align="center">
       Tarragona<br />(próximamente)
     </td>
-    <td align="center">
+    <td align="center" colspan="2">
       <a href="https://github.com/vgalcera">
         <img src="https://pbs.twimg.com/profile_images/600353062658641921/pKjyZM9U_400x400.jpg" width="60px" alt=""><br />
         <sub><b>Vanessa Galcera</b></sub>
@@ -273,7 +279,7 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
         Valencia
       </a>
     </td>
-    <td align="center">
+    <td align="center" colspan="2">
       <a href="https://github.com/hell03610">
         <img src="https://avatars0.githubusercontent.com/u/581607?s=460&v=4" width="60px" alt=""><br />
         <sub><b>Emma López</b></sub>
@@ -285,7 +291,7 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
     <td align="center">
       Tu provincia
     </td>
-    <td align="center">
+    <td align="center" colspan="2">
       <a href="https://github.com/comunidad-tecnologica/comunidad-tecnologica/blob/master/CONTRIBUTING.md">
         <img src="https://github.com/identicons/jasonlong.png" width="60px" alt=""><br />
         <sub><b>Tú también puedes aparecer aquí</b></sub>
