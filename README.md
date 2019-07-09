@@ -272,6 +272,18 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
       </a>
     </td>
   </tr>
+  <!-- TOLEDO -->
+  <tr>
+    <td align="center">
+      Toledo<br />(próximamente)
+    </td>
+    <td align="center" colspan="2">
+      <a href="https://github.com/mdelapenya">
+        <img src="https://avatars3.githubusercontent.com/u/951580?s=460&v=4" width="60px" alt=""><br />
+        <sub><b>Manuel de la Peña</b></sub>
+      </a>
+    </td>
+  </tr>
   <!-- VALENCIA -->
   <tr>
     <td align="center">
