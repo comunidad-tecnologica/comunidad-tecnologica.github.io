@@ -29,6 +29,8 @@ En caso de que te apetezca colaborar con el **mantenimiento** de un repositorio 
 
 ## Cómo colaborar creando un repositorio de provincia o comunidad autónoma
 
+[Solicita ser miembro de la "organización" de Comunidad Tecnológica](https://github.com/comunidad-tecnologica/comunidad-tecnologica/issues/new).
+
 ¿Te han invitado y ya apareces en el listado de **Información por provincia o comunidad autónoma**?
 
 ¡¡Allá vamos!! :tada:
