@@ -205,10 +205,16 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
     <td align="center">
       Castilla y León<br />(próximamente)
     </td>
-    <td align="center" colspan="2">
+    <td align="center">
       <a href="https://github.com/amaliahern">
         <img src="https://avatars0.githubusercontent.com/u/304761?s=460&v=4" width="60px" alt=""><br />
         <sub><b>Amalia Hernández</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nhpatt">
+        <img src="https://avatars0.githubusercontent.com/u/340653?s=460&v=4" width="60px" alt=""><br />
+        <sub><b>Javier Gamarra</b></sub>
       </a>
     </td>
   </tr>
@@ -229,10 +235,16 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
     <td align="center">
       Madrid<br />(próximamente)
     </td>
-    <td align="center" colspan="2">
+    <td align="center">
       <a href="https://github.com/dgomezg">
         <img src="https://avatars2.githubusercontent.com/u/1894346?s=460&v=4" width="60px" alt=""><br />
         <sub><b>David Gómez</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nhpatt">
+        <img src="https://avatars0.githubusercontent.com/u/340653?s=460&v=4" width="60px" alt=""><br />
+        <sub><b>Javier Gamarra</b></sub>
       </a>
     </td>
   </tr>
