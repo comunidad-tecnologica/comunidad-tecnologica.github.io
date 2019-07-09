@@ -179,10 +179,10 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
       </a>
     </td>
   </tr>
-  <!-- BILBAO -->
+  <!-- BIZKAIA -->
   <tr>
     <td align="center">
-      Bilbao<br />(próximamente)
+      Bizkaia<br />(próximamente)
     </td>
     <td align="center">
       <a href="https://github.com/ipinto">
