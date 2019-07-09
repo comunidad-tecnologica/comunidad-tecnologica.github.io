@@ -281,6 +281,18 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
       </a>
     </td>
   </tr>
+  <!-- MURCIA -->
+  <tr>
+    <td align="center">
+      Murcia<br />(próximamente)
+    </td>
+    <td align="center" colspan="2">
+      <a href="https://github.com/elenatorro">
+        <img src="https://avatars0.githubusercontent.com/u/3824953?s=460&v=4" width="60px" alt=""><br />
+        <sub><b>Elena Torró</b></sub>
+      </a>
+    </td>
+  </tr>
   <!-- NAVARRA -->
   <tr>
     <td align="center">
