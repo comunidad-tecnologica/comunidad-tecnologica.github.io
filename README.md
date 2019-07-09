@@ -123,6 +123,18 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
       </a>
     </td>
   </tr>
+  <!-- ALICANTE -->
+  <tr>
+    <td align="center">
+      Alicante<br />(próximamente)
+    </td>
+    <td align="center">
+      <a href="https://github.com/islomar">
+        <img src="https://avatars1.githubusercontent.com/u/966013?s=460&v=4" width="60px" alt=""><br />
+        <sub><b>Isidro López</b></sub>
+      </a>
+    </td>
+  </tr>
   <!-- ASTURIAS -->
   <tr>
     <td align="center">
