@@ -57,6 +57,17 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
       </a>
     </td>
   </tr>
+  <!-- NEWSLETTERS -->
+  <tr>
+    <td align="center">
+      <a href="https://github.com/comunidad-tecnologica/awesome-spanish-slack-dev-groups">
+        :mailbox: Newsletters<br />(próximamente)
+      </a>
+    </td>
+    <td align="center">
+      (En proceso de búsqueda)
+    </td>
+  </tr>
   <!-- SALUD MENTAL -->
   <tr>
     <td align="center">
