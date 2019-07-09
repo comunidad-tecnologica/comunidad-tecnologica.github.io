@@ -60,8 +60,8 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
   <!-- NEWSLETTERS -->
   <tr>
     <td align="center">
-      <a href="https://github.com/comunidad-tecnologica/awesome-spanish-slack-dev-groups">
-        :mailbox: Newsletters<br />(próximamente)
+      <a href="https://github.com/comunidad-tecnologica/newsletters">
+        :mailbox: Newsletters
       </a>
     </td>
     <td align="center">
