@@ -197,6 +197,18 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
       </a>
     </td>
   </tr>
+  <!-- CÁCERES -->
+  <tr>
+    <td align="center">
+      Cáceres<br />(próximamente)
+    </td>
+    <td align="center" colspan="2">
+      <a href="https://github.com/guldoe">
+        <img src="https://avatars3.githubusercontent.com/u/6005590?s=460&v=4" width="60px" alt=""><br />
+        <sub><b>Daniel Castañera</b></sub>
+      </a>
+    </td>
+  </tr>
   <!-- CANARIAS -->
   <tr>
     <td align="center">
