@@ -335,6 +335,18 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
       </a>
     </td>
   </tr>
+  <!-- PONTEVEDRA -->
+  <tr>
+    <td align="center">
+      Pontevedra<br />(próximamente)
+    </td>
+    <td align="center" colspan="2">
+      <a href="https://github.com/antonmry">
+        <img src="https://avatars2.githubusercontent.com/u/7526373?s=460&v=4" width="60px" alt=""><br />
+        <sub><b>Anton R. Yuste</b></sub>
+      </a>
+    </td>
+  </tr>
   <!-- TARRAGONA -->
   <tr>
     <td align="center">
