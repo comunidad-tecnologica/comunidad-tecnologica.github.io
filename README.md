@@ -270,7 +270,9 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
   <!-- CÓRDOBA -->
   <tr>
     <td align="center">
-      Córdoba<br />(próximamente)
+      <a href="https://github.com/comunidad-tecnologica/cordoba">
+        Córdoba
+      </a>
     </td>
     <td align="center" colspan="2">
       <a href="https://github.com/aartiles">
