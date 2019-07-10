@@ -142,7 +142,9 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
   <!-- A CORUÑA -->
   <tr>
     <td align="center">
-      A Coruña<br />(próximamente)
+      <a href="https://github.com/comunidad-tecnologica/a-coruna">
+        A Coruña
+      </a>
     </td>
     <td align="center" colspan="2">
       <a href="https://github.com/BorjaL">
