@@ -74,7 +74,7 @@ Esto ir√° cogiendo forma a medida que vaya creciendo. De momento, comenzamos as√
   <!-- ORGANIZAR EVENTOS -->
   <tr>
     <td align="center">
-      <a href="https://github.com/comunidad-tecnologica/newsletters">
+      <a href="https://github.com/comunidad-tecnologica/organizar-eventos">
         :rocket: Organizar eventos
       </a>
     </td>
