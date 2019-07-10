@@ -403,6 +403,17 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
       </a>
     </td>
   </tr>
+  <!-- ZARAGOZA -->
+  <tr>
+    <td align="center">
+      <a href="https://github.com/comunidad-tecnologica/zaragoza">
+        Zaragoza
+      </a>
+    </td>
+    <td align="center" colspan="2">
+      (En proceso de búsqueda de alguien<br />que pueda colaborar en su mantenimiento)
+    </td>
+  </tr>
   <!-- INVITACIÓN A NUEVAS COLABORACIONES -->
   <tr>
     <td align="center">
