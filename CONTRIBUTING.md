@@ -37,9 +37,11 @@ En caso de que te apetezca colaborar con el **mantenimiento** de un repositorio 
 
 1. Crea el repositorio en la "organización" `Comunidad Tecnológica` con el nombre de la provincia o comunidad autónoma. Si puede ser todo minúsculas, mejor. Y si es compuesto, separado por guión `-`.
 2. Si alguien te va a echar una mano con el mantenimiento de ese repositorio, añade a dicha persona en `Settings > Collaborators & Team` del repositorio.
-3. Modifica [README.md](https://github.com/comunidad-tecnologica/comunidad-tecnologica/blob/master/README.md) para que aparezca el enlace al repositorio que acabas de crear y elimina _próximamente_ o lo que aparezca entre paréntesis junto al nombre de la provincia o comunidad autónoma.
+3. Modifica [README.md](https://github.com/comunidad-tecnologica/comunidad-tecnologica/blob/master/README.md) del repositorio principal para que aparezca el enlace al repositorio que acabas de crear y elimina _próximamente_ o lo que aparece entre paréntesis junto al nombre de la provincia o comunidad autónoma.
 
-No te preocupes por tener todo el contenido a mano para crear el repositorio. Tan pronto tengas algo de información, compártela, haz difusión y pide colaboración en caso de que se eche en falta algo. ¡Entre todos sumamos!
+Respecto al contenido, no hay un formato fijo a seguir. Algunas ideas: enlaces a agendas de eventos locales, listado de eventos anuales, listado de comunidades locales, Slack o canal de Slack donde se encuentre la mayoría de las personas de la comunidad local, etc.
+
+Y no te preocupes por tener todo el contenido a mano para crear el repositorio. Tan pronto tengas algo de información, compártela, haz difusión y pide colaboración en caso de que se eche en falta algo. ¡Entre todos sumamos!
 
 ## Cómo colaborar con alguna idea o feedback
 
