@@ -19,7 +19,7 @@ Esto ir√° cogiendo forma a medida que vaya creciendo. De momento, comenzamos as√
   <tr>
     <td align="center">
       <a href="https://github.com/npatarino/tech-conferences-spain">
-        :rocket: Conferencias
+        :spiral_calendar: Agenda de conferencias
       </a>
     </td>
     <td align="center">
@@ -69,6 +69,17 @@ Esto ir√° cogiendo forma a medida que vaya creciendo. De momento, comenzamos as√
         <img src="https://avatars3.githubusercontent.com/u/5872813?s=460&v=4" width="60px" alt=""><br />
         <sub><b>Meritxell Calvo</b></sub>
       </a>
+    </td>
+  </tr>
+  <!-- ORGANIZAR EVENTOS -->
+  <tr>
+    <td align="center">
+      <a href="https://github.com/comunidad-tecnologica/newsletters">
+        :rocket: Organizar eventos
+      </a>
+    </td>
+    <td align="center">
+      (En proceso de b√∫squeda)
     </td>
   </tr>
   <!-- SALUD MENTAL -->
