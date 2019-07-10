@@ -174,7 +174,9 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
   <!-- ASTURIAS -->
   <tr>
     <td align="center">
-      Asturias<br />(próximamente)
+      <a href="https://github.com/comunidad-tecnologica/Asturias">
+        Asturias
+      </a>
     </td>
     <td align="center" colspan="2">
       <a href="https://github.com/azaharafernandezguizan">
@@ -302,7 +304,9 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
   <!-- MÁLAGA -->
   <tr>
     <td align="center">
-      Málaga<br />(próximamente)
+      <a href="https://github.com/comunidad-tecnologica/malaga">
+        Málaga
+      </a>
     </td>
     <td align="center">
       <a href="https://github.com/deors">
