@@ -79,7 +79,10 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
       </a>
     </td>
     <td align="center">
-      (En proceso de búsqueda)
+      <a href="https://github.com/vgaltes">
+        <img src="https://avatars2.githubusercontent.com/u/862679?s=460&v=4" width="60px" alt=""><br />
+        <sub><b>Vicenç García</b></sub>
+      </a>
     </td>
   </tr>
   <!-- SALUD MENTAL -->
