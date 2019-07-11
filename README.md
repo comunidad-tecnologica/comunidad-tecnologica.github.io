@@ -88,15 +88,15 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
   <!-- PODCASTS -->
   <tr>
     <td align="center">
-      <!--a href="https://github.com/comunidad-tecnologica/podcasts"-->
-        :microphone: Podcasts (próximamente)
-      <!--/a-->
+      <a href="https://github.com/comunidad-tecnologica/podcasts">
+        :microphone: Podcasts
+      </a>
     </td>
     <td align="center">
-      <!--a href="https://github.com/">
-        <img src="" width="60px" alt=""><br /-->
+      <a href="https://github.com/jjramosj">
+        <img src="https://avatars3.githubusercontent.com/u/42832980?s=460&v=4" width="60px" alt=""><br /-->
         <sub><b>Juan José Ramos</b></sub>
-      <!--/a-->
+      </a>
     </td>
   </tr>
   <!-- SALUD MENTAL -->
