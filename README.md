@@ -85,6 +85,20 @@ Esto irá cogiendo forma a medida que vaya creciendo. De momento, comenzamos as�
       </a>
     </td>
   </tr>
+  <!-- PODCASTS -->
+  <tr>
+    <td align="center">
+      <!--a href="https://github.com/comunidad-tecnologica/podcasts"-->
+        :microphone: Podcasts (próximamente)
+      <!--/a-->
+    </td>
+    <td align="center">
+      <!--a href="https://github.com/">
+        <img src="" width="60px" alt=""><br /-->
+        <sub><b>Juan José Ramos</b></sub>
+      <!--/a-->
+    </td>
+  </tr>
   <!-- SALUD MENTAL -->
   <tr>
     <td align="center">
