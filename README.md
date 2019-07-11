@@ -29,6 +29,16 @@ Esto ir√° cogiendo forma a medida que vaya creciendo. De momento, comenzamos as√
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://docs.google.com/spreadsheets/d/1OcxSS9wyyLW71RmCOmVfxds4C4ylOt3cmhGFqSdq2Pc/edit#gid=1481677113">
+        :spiral_calendar: Agenda de conferencias
+      </a>
+    </td>
+    <td align="center">
+      Google Calendar creado por <a href="https://twitter.com/Alba_Roza">Alba Roza</a>.<br />Lo nombramos porque tal vez<br />se siguen creando eventos en ese calendario.
+    </td>
+  </tr>
   <!-- DIVERSIDAD -->
   <tr>
     <td align="center">
