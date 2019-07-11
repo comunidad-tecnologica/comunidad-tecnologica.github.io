@@ -27,7 +27,7 @@ Consulta las guías de colaboración que aparezcan en dicho repositorio para apo
 
 En caso de que te apetezca colaborar con el **mantenimiento** de un repositorio (_pull requests_, comunicación, etc) te recomendamos que te pongas en contacto con alguna de las personas del equipo de mantenimiento de dicho repositorio para que te incluyan.
 
-## Cómo colaborar creando un repositorio de provincia o comunidad autónoma
+## Cómo colaborar creando un repositorio de provincia, comunidad autónoma o cualquier otro tema de interés
 
 [Solicita ser miembro de la "organización" de Comunidad Tecnológica](https://github.com/comunidad-tecnologica/comunidad-tecnologica/issues/new).
 
@@ -35,11 +35,11 @@ En caso de que te apetezca colaborar con el **mantenimiento** de un repositorio 
 
 ¡¡Allá vamos!! :tada:
 
-1. Crea el repositorio en la "organización" `Comunidad Tecnológica` con el nombre de la provincia o comunidad autónoma. Si puede ser todo minúsculas, mejor. Y si es compuesto, separado por guión `-`.
+1. Crea el repositorio en la "organización" `Comunidad Tecnológica`. Si puede ser todo minúsculas, mejor. Y si es compuesto, separado por guión `-`.
 2. Si alguien te va a echar una mano con el mantenimiento de ese repositorio, añade a dicha persona en `Settings > Collaborators & Team` del repositorio.
-3. Modifica [README.md](https://github.com/comunidad-tecnologica/comunidad-tecnologica/blob/master/README.md) del repositorio principal para que aparezca el enlace al repositorio que acabas de crear y elimina _próximamente_ o lo que aparece entre paréntesis junto al nombre de la provincia o comunidad autónoma.
+3. Modifica [README.md](https://github.com/comunidad-tecnologica/comunidad-tecnologica/blob/master/README.md) del repositorio principal para que aparezca el enlace al repositorio que acabas de crear.
 
-Respecto al contenido, no hay un formato fijo a seguir. Algunas ideas: enlaces a agendas de eventos locales, listado de eventos anuales, listado de comunidades locales, Slack o canal de Slack donde se encuentre la mayoría de las personas de la comunidad local, etc.
+Respecto al contenido, no hay un formato fijo a seguir. Algunas ideas para repositorios de provincias o comunidades autónomas: enlaces a agendas de eventos locales, listado de eventos anuales, listado de comunidades locales, Slack o canal de Slack donde se encuentre la mayoría de las personas de la comunidad local, etc.
 
 Y no te preocupes por tener todo el contenido a mano para crear el repositorio. Tan pronto tengas algo de información, compártela, haz difusión y pide colaboración en caso de que se eche en falta algo. ¡Entre todos sumamos!
 
