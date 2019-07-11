@@ -31,9 +31,7 @@ En caso de que te apetezca colaborar con el **mantenimiento** de un repositorio 
 
 [Solicita ser miembro de la "organización" de Comunidad Tecnológica](https://github.com/comunidad-tecnologica/comunidad-tecnologica/issues/new).
 
-¿Te han invitado y ya apareces en el listado de **Información por provincia o comunidad autónoma**?
-
-¡¡Allá vamos!! :tada:
+¿Ya te han invitado? ¡¡Allá vamos!! :tada:
 
 1. Crea el repositorio en la "organización" `Comunidad Tecnológica`. Si puede ser todo minúsculas, mejor. Y si es compuesto, separado por guión `-`.
 2. Si alguien te va a echar una mano con el mantenimiento de ese repositorio, añade a dicha persona en `Settings > Collaborators & Team` del repositorio.
