@@ -1,0 +1,59 @@
+- title: "Agenda de conferencias"
+  url: https://npatarino.github.io/tech-conferences-spain/
+  img: https://github.githubassets.com/images/icons/emoji/unicode/1f5d3.png
+  collaborators:
+    - name: Nicolás Patarino
+      url: https://github.com/npatarino
+      img: https://avatars0.githubusercontent.com/u/209096?s=460&v=4
+- title: Agenda de conferencias
+  url: https://docs.google.com/spreadsheets/d/1OcxSS9wyyLW71RmCOmVfxds4C4ylOt3cmhGFqSdq2Pc/edit#gid=1481677113
+  img: https://github.githubassets.com/images/icons/emoji/unicode/1f5d3.png
+  comment: Google Calendar creado por <a href="https://twitter.com/Alba_Roza">Alba Roza</a>.<br />Lo nombramos porque tal vez se siguen<br/>creando eventos en ese calendario. 
+- title: Diversidad
+  url: https://github.com/folkswhocode/awesome-diversity
+  img: https://github.githubassets.com/images/icons/emoji/unicode/2728.png
+  collaborators: 
+    - name: Folks Who Code
+      url: https://github.com/folkswhocode
+      img: https://avatars3.githubusercontent.com/u/31612966?s=200&v=4
+- title: Grupos de Slack
+  url: https://github.com/comunidad-tecnologica/awesome-spanish-slack-dev-groups
+  img: https://a.slack-edge.com/4a5c4/marketing/img/meta/favicon-32.png
+  collaborators: 
+    - name: Eduardo Sebastián
+      url: https://github.com/esebastian
+      img: https://avatars0.githubusercontent.com/u/577074?s=460&v=4
+- title: Newsletters
+  url: https://github.com/comunidad-tecnologica/newsletters
+  img: https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png
+  collaborators: 
+    - name: Meritxell Calvo
+      url: https://github.com/mericp
+      img: https://avatars3.githubusercontent.com/u/5872813?s=460&v=4
+- title: Organizar eventos
+  url: https://github.com/comunidad-tecnologica/organizar-eventos
+  img: https://github.githubassets.com/images/icons/emoji/unicode/1f680.png
+  collaborators: 
+    - name: Vicenç García
+      url: https://github.com/vgaltes
+      img: https://avatars2.githubusercontent.com/u/862679?s=460&v=4
+- title: Podcasts
+  url: https://github.com/comunidad-tecnologica/podcasts
+  img: https://github.githubassets.com/images/icons/emoji/unicode/1f3a7.png
+  collaborators: 
+    - name: Juan José Ramos
+      url: https://github.com/jjramosj
+      img: https://avatars3.githubusercontent.com/u/42832980?s=460&v=4
+- title: Salud mental
+  url: https://github.com/dreamingechoes/awesome-mental-health
+  img: https://github.githubassets.com/images/icons/emoji/unicode/1f4ad.png
+  collaborators: 
+    - name: Iván González
+      url: https://github.com/dreamingechoes
+      img: https://avatars2.githubusercontent.com/u/4928335?s=460&v=4
+- title: Tu recurso
+  url: https://github.com/comunidad-tecnologica/comunidad-tecnologica/blob/master/CONTRIBUTING.md
+  collaborators: 
+    - name: Tú puedes aparecer aquí
+      url: https://github.com/comunidad-tecnologica/comunidad-tecnologica/blob/master/CONTRIBUTING.md
+      img: https://github.com/identicons/jasonlong.png

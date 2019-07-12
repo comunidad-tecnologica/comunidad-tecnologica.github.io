@@ -1,0 +1,26 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header, section, footer {
+    width: 100%;
+    float: none;
+}
+
+header, footer {
+    position: unset;
+}
+
+header, footer, th, td {
+    text-align: center;
+}
+
+.collaborators {
+    display: inline-block;
+}
+
+.collaborator {
+    float: left;
+    margin: 0 2em;
+}

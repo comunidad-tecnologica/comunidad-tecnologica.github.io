@@ -1,0 +1,11 @@
+<table>
+  <tr>
+    {% for community in site.data.online-communities %}
+    <td align="center">
+      <a href="{{ community.url }}" title="{{ community.title }}">
+        <img src="img/online-communities/{{ community.img }}" width="100px" alt="">
+      </a>
+    </td>
+    {% endfor %}
+  </tr>
+</table>

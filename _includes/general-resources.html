@@ -1,0 +1,25 @@
+<table>
+    <tr>
+        <th>Enlace</th>
+        <th>Equipo encargado del mantenimiento</th>
+    </tr> 
+    {% for resource in site.data.general-resources %}
+    <tr>
+        <td>
+            <a href="{{ resource.url }}"><img src="{{ resource.img }}" width="14px" alt=""> {{ resource.title }}</a>
+        </td>
+        <td>
+            {% if resource.comment %}
+                {{ resource.comment }}
+            {% else %}
+                {% for collaborator in resource.collaborators %}
+                <a href="{{ collaborator.url }}" title="{{ collaborator.name }}">
+                    <img src="{{ collaborator.img }}" width="60px" alt=""><br />
+                    <sub><b>{{ collaborator.name }}</b></sub>
+                </a>
+                {% endfor %}
+            {% endif %}
+        </td>
+    </tr>
+    {% endfor %}
+</table>

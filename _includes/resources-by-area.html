@@ -1,0 +1,35 @@
+<table>
+  <tr>
+    <th>Enlace</th>
+    <th>Equipo encargado del mantenimiento</th>
+  </tr>
+  {% for resource in site.data.resources-by-area %}
+  <tr>
+    <td>
+      {% if resource.url %}
+      <a href="{{ resource.url }}">
+        {{ resource.title }}
+      </a>
+      {% else %}
+        {{ resource.title }}<br />(próximamente)
+      {% endif %}
+    </td>
+    <td>
+      {% if resource.comment %}
+        {{ resource.comment }}
+      {% else %}
+        <div class="collaborators">
+          {% for collaborator in resource.collaborators %}
+          <div class="collaborator">
+            <a href="{{ collaborator.url }}" title="{{ collaborator.name }}">
+              <img src="{{ collaborator.img }}" width="60px" alt=""><br />
+              <sub><b>{{ collaborator.name }}</b></sub>
+            </a>
+          </div>
+          {% endfor %}
+        </div>
+      {% endif %}
+    </td>
+  </tr>
+  {% endfor %}
+</table>
