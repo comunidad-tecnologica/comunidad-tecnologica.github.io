@@ -3,7 +3,7 @@
 
 :tada: ¡¡ Tenemos web !! 
 
-[comunidad-tecnologica.github.io](https://comunidad-tecnologica.github.io)
+:link: [https://comunidad-tecnologica.github.io](https://comunidad-tecnologica.github.io)
 
 ## Cómo colaborar en esta iniciativa
 
