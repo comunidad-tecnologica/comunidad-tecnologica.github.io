@@ -36,6 +36,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "yodra",
+      "name": "Yodra",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/7188403?v=4",
+      "profile": "https://github.com/yodra",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
