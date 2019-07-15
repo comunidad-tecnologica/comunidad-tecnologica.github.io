@@ -1,5 +1,5 @@
 # Comunidad Tecnológica
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#colaboradores-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
 
 :tada: ¡¡ Tenemos web !! 
 
@@ -19,7 +19,8 @@ Construcción en local para verlo en http://localhost:4000 :
 $> bundle exec jekyll serve
 ```
 
-## Colaboradores ✨
+<!-- Do not translate this title to keep the number of contributors updated in the badge -->
+## Contributors
 
 Gracias a las contribuciones de todas estas personas maravillosas ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
