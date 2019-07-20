@@ -1,13 +1,13 @@
-- title: A Coruña 
+- title: A Coruña
   url: https://github.com/comunidad-tecnologica/a-coruna
   collaborators:
     - name: Borja Fernández
       url: https://github.com/BorjaL
       img: https://avatars0.githubusercontent.com/u/570759?s=460&v=4
 - title: Alicante
-  url: 
+  url:
   collaborators:
-    - name: Rubén Antón 
+    - name: Rubén Antón
       url: https://github.com/rubocoptero
       img: https://avatars3.githubusercontent.com/u/2010472?s=460&v=4
     - name: Isidro López
@@ -20,13 +20,13 @@
       url: https://github.com/azaharafernandezguizan
       img: https://avatars3.githubusercontent.com/u/13187806?s=400&v=4
 - title: Barcelona
-  url: 
+  url:
   collaborators:
     - name: Cristina Verdi
       url: https://github.com/cristinaverdi
       img: https://avatars0.githubusercontent.com/u/13377065?s=460&v=4
 - title: Bizkaia
-  url: 
+  url:
   collaborators:
     - name: Imanol Pinto
       url: https://github.com/ipinto
@@ -35,7 +35,7 @@
       url: https://github.com/aaguila
       img: https://avatars3.githubusercontent.com/u/6283257?s=460&v=4
 - title: Cáceres
-  url: 
+  url: https://github.com/comunidad-tecnologica/caceres
   collaborators:
     - name: Daniel Castañera
       url: https://github.com/guldoe
@@ -47,13 +47,13 @@
       url: https://github.com/yodra
       img: https://avatars0.githubusercontent.com/u/7188403?s=460&v=4
 - title: Castellón
-  url: 
+  url:
   collaborators:
     - name: Ricardo Borillo
       url: https://github.com/borillo
       img: https://avatars1.githubusercontent.com/u/570960?s=460&v=4
 - title: Castilla y León
-  url: 
+  url:
   collaborators:
     - name: Amalia Hernández
       url: https://github.com/amaliahern
@@ -68,7 +68,7 @@
       url: https://github.com/aartiles
       img: https://avatars0.githubusercontent.com/u/92608?s=460&v=4
 - title: Madrid
-  url: 
+  url:
   collaborators:
     - name: David Gómez
       url: https://github.com/dgomez
@@ -86,37 +86,37 @@
       url: https://github.com/nandosola
       img: https://avatars3.githubusercontent.com/u/125445?s=460&v=4
 - title: Mallorca
-  url: 
+  url:
   collaborators:
     - name: Juan Lladó
       url: https://github.com/jllado
       img: https://avatars0.githubusercontent.com/u/628929?s=460&v=4
 - title: Murcia
-  url: 
+  url:
   collaborators:
     - name: Elena Torró
       url: https://github.com/elenatorro
-      img: https://avatars0.githubusercontent.com/u/3824953?s=460&v=4 
+      img: https://avatars0.githubusercontent.com/u/3824953?s=460&v=4
 - title: Navarra
-  url: 
+  url:
   collaborators:
     - name: Pablo Albizu
       url: https://github.com/pabloalbizu
       img: https://avatars0.githubusercontent.com/u/3223601?s=460&v=4
 - title: Pontevedra
-  url: 
+  url:
   collaborators:
     - name: Anton R. Yuste
       url: https://github.com/antonmry
       img: https://avatars2.githubusercontent.com/u/7526373?s=460&v=4
 - title: Tarragona
-  url: 
+  url:
   collaborators:
     - name: Vanessa Galcera
       url: https://github.com/vgalcera
       img: https://avatars2.githubusercontent.com/u/5307220?s=460&v=4
 - title: Toledo
-  url: 
+  url:
   collaborators:
     - name: Manuel de la Peña
       url: https://github.com/mdelapenya
@@ -129,7 +129,7 @@
       img: https://avatars0.githubusercontent.com/u/581607?s=460&v=4
 - title: Zaragoza
   url: https://github.com/comunidad-tecnologica/zaragoza
-  comment: (En proceso de búsqueda de alguien<br />que pueda colaborar en su mantenimiento) 
+  comment: (En proceso de búsqueda de alguien<br />que pueda colaborar en su mantenimiento)
 - title: Tu provincia
   url: https://github.com/comunidad-tecnologica/comunidad-tecnologica/blob/master/CONTRIBUTING.md
   collaborators:
