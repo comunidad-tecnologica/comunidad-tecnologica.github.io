@@ -1,5 +1,5 @@
 # Comunidad Tecnológica
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors)
 
 :tada: ¡¡ Tenemos web !! 
 
@@ -32,6 +32,7 @@ Gracias a las contribuciones de todas estas personas maravillosas ([emoji key](h
     <td align="center"><a href="http://www.audiense.com"><img src="https://avatars3.githubusercontent.com/u/92608?v=4" width="100px;" alt="Alfredo Artiles"/><br /><sub><b>Alfredo Artiles</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/comunidad-tecnologica.github.io/commits?author=aartiles" title="Documentation">📖</a></td>
     <td align="center"><a href="http://fightingkitten.webcindario.com/"><img src="https://avatars3.githubusercontent.com/u/5872813?v=4" width="100px;" alt="nyan dev"/><br /><sub><b>nyan dev</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/comunidad-tecnologica.github.io/commits?author=mericp" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/yodra"><img src="https://avatars0.githubusercontent.com/u/7188403?v=4" width="100px;" alt="Yodra"/><br /><sub><b>Yodra</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/comunidad-tecnologica.github.io/commits?author=yodra" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://www.danielcastanera.com"><img src="https://avatars3.githubusercontent.com/u/6005590?v=4" width="100px;" alt="daniel castañera garrido"/><br /><sub><b>daniel castañera garrido</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/comunidad-tecnologica.github.io/commits?author=guldoe" title="Documentation">📖</a></td>
   </tr>
 </table>
 
