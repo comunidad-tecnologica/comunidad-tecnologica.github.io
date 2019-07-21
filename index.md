@@ -23,6 +23,10 @@ Aquí hay un poco de todo:
 
 {% include online-communities.html %}
 
+## Grupos de Telegram
+
+{% include telegram-groups.html %}
+
 ## Información por provincia o comunidad autónoma
 
 Algún día tendremos un mapa, pero de momento navegamos así:

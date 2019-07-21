@@ -1,0 +1,11 @@
+<table>
+  <tr>
+    {% for group in site.data.telegram-groups %}
+    <td align="center">
+      <a href="{{ group.url }}" title="{{ group.title }}">
+        <img src="img/telegram-groups/{{ group.img }}" width="100px" alt="">
+      </a>
+    </td>
+    {% endfor %}
+  </tr>
+</table>
