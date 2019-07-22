@@ -1,0 +1,13 @@
+- title: "Recursos para aprender Angular"
+  url: https://github.com/Frostqui/angular-espanol
+  img: https://angular.io/assets/images/logos/angular/angular.svg
+  collaborators:
+    - name: Diego López
+      url: https://github.com/Frostqui
+      img: //avatars1.githubusercontent.com/u/10099165?s=180&v=4
+- title: Tu recurso
+  url: https://github.com/comunidad-tecnologica/comunidad-tecnologica/blob/master/CONTRIBUTING.md
+  collaborators:
+    - name: Tú puedes aparecer aquí
+      url: https://github.com/comunidad-tecnologica/comunidad-tecnologica/blob/master/CONTRIBUTING.md
+      img: https://github.com/identicons/jasonlong.png

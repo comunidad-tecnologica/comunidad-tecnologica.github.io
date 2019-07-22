@@ -17,21 +17,25 @@ Aquí hay un poco de todo:
 
 {% include general-resources.html %}
 
+## Recursos específicos
+
+{% include specific-resources.html %}
+
 ## Comunidades Online
 
 ¿Sabes que existen comunidades que organizan charlas online periódicamente? Y puedes preguntar a los ponentes desde donde te encuentres:
 
 {% include online-communities.html %}
 
-## Grupos de Telegram
-
-{% include telegram-groups.html %}
-
 ## Información por provincia o comunidad autónoma
 
 Algún día tendremos un mapa, pero de momento navegamos así:
 
 {% include resources-by-area.html %}
+
+## Grupos de Telegram
+
+{% include telegram-groups.html %}
 
 ## Cómo colaborar
 
