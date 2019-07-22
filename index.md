@@ -23,7 +23,7 @@ Aquí hay un poco de todo:
 
 ## Comunidades Online
 
-¿Sabes que existen comunidades que organizan charlas online periódicamente? Y puedes preguntar a los ponentes desde donde te encuentres:
+¿Sabes que existen comunidades que organizan charlas online periódicamente? **Atención, ¡C4P abierto todos los días del año!** Y como asistente puedes preguntar a los ponentes desde donde te encuentres:
 
 {% include online-communities.html %}
 
