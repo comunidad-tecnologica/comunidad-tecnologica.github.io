@@ -44,10 +44,10 @@ Tan pronto aceptes la invitación, añadiremos tu repositorio en el listado de r
 En caso de que decidas no ubicar el repositorio dentro de la "organización" de Comunidad Tecnológica, te agradecemos que incluyas el siguiente texto en el fichero README.md de tu repositorio:
 
 ```
-[![Mencionado en Comunidad Tecnológica](https://github.com/comunidad-tecnologica/comunidad-tecnologica/blob/master/img/comunidad-tecnologica.svg)](https://github.com/comunidad-tecnologica/comunidad-tecnologica)
+[![Mencionado en Comunidad Tecnológica](https://github.com/comunidad-tecnologica/comunidad-tecnologica/blob/master/img/comunidad-tecnologica.svg)](https://comunidad-tecnologica.github.io)
 ```
 
-De ese modo, aparecerá el icono [![Mencionado en Comunidad Tecnológica](https://github.com/comunidad-tecnologica/comunidad-tecnologica/blob/master/img/comunidad-tecnologica.svg)](https://github.com/comunidad-tecnologica/comunidad-tecnologica)
+De ese modo, aparecerá el icono [![Mencionado en Comunidad Tecnológica](https://github.com/comunidad-tecnologica/comunidad-tecnologica/blob/master/img/comunidad-tecnologica.svg)](https://comunidad-tecnologica.github.io)
 
 ## Cómo reconocer todas las aportaciones
 
