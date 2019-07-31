@@ -1,8 +1,9 @@
 <table>
   <tr>
-    {% for community in site.data.online-communities %}
+    {% assign communities = site.data.online-communities | sort: "title" %}
+    {% for community in communities %}
     <td align="center">
-      <a href="{{ community.url }}" title="{{ community.title }}">
+      <a href="{{ community.url }}" title="{{ community.title }}" aria-label="{{ community.title }}">
         <img src="img/online-communities/{{ community.img }}" width="100px" alt="">
       </a>
     </td>

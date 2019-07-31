@@ -3,7 +3,8 @@
     <th>Enlace</th>
     <th>Equipo encargado del mantenimiento</th>
   </tr>
-  {% for resource in site.data.resources-by-area %}
+  {% assign resources = site.data.resources-by-area | sort: "title" %}
+  {% for resource in resources %}
   <tr>
     <td>
       {% if resource.url %}

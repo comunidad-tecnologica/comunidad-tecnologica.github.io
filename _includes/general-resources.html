@@ -2,8 +2,9 @@
     <tr>
         <th>Enlace</th>
         <th>Equipo encargado del mantenimiento</th>
-    </tr> 
-    {% for resource in site.data.general-resources %}
+    </tr>
+    {% assign resources = site.data.general-resources | sort: "title" %} 
+    {% for resource in resources %}
     <tr>
         <td>
             <a href="{{ resource.url }}"><img src="{{ resource.img }}" width="14px" alt=""> {{ resource.title }}</a>
