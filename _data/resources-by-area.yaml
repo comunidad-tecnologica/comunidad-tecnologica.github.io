@@ -13,6 +13,12 @@
     - name: Isidro López
       url: https://github.com/islomar
       img: https://avatars1.githubusercontent.com/u/966013?s=460&v=4
+- title: Araba
+  url: https://github.com/comunidad-tecnologica/araba
+  collaborators:
+    - name: Gorka López de Torre
+      url: https://github.com/gorkaio
+      img: https://avatars3.githubusercontent.com/u/4482916?s=400&v=4
 - title: Asturias
   url: https://github.com/comunidad-tecnologica/Asturias
   collaborators:
