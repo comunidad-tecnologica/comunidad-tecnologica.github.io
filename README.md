@@ -38,7 +38,7 @@ Gracias a las contribuciones de todas estas personas maravillosas ([emoji key](h
   </tr>
   <tr>
     <td align="center"><a href="https://www.gorka.io"><img src="https://avatars0.githubusercontent.com/u/4482916?v=4" width="100px;" alt="Gorka López de Torre"/><br /><sub><b>Gorka López de Torre</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/comunidad-tecnologica.github.io/commits?author=gorkaio" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/ruckysolis"><img src="https://avatars1.githubusercontent.com/u/2883426?v=4" width="100px;" alt="ruckysolis"/><br /><sub><b>ruckysolis</b></sub></a><br /><a href="#plugin-ruckysolis" title="Plugin/utility libraries">🔌</a> <a href="https://github.com/comunidad-tecnologica/comunidad-tecnologica.github.io/commits?author=ruckysolis" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/ruckysolis"><img src="https://avatars1.githubusercontent.com/u/2883426?v=4" width="100px;" alt="ruckysolis"/><br /><sub><b>ruckysolis</b></sub></a><br /> <a href="https://github.com/comunidad-tecnologica/comunidad-tecnologica.github.io/commits?author=ruckysolis" title="Documentation">📖</a></td>
   </tr>
 </table>
 
