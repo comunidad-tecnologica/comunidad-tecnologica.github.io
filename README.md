@@ -20,7 +20,7 @@ $> bundle exec jekyll serve
 ```
 
 <!-- Do not translate this title to keep the number of contributors updated in the badge -->
-## Contributors 
+## Contribuidores
 
 Gracias a las contribuciones de todas estas personas maravillosas ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
