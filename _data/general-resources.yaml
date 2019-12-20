@@ -9,6 +9,14 @@
   url: https://docs.google.com/spreadsheets/d/1OcxSS9wyyLW71RmCOmVfxds4C4ylOt3cmhGFqSdq2Pc/edit#gid=1481677113
   img: https://github.githubassets.com/images/icons/emoji/unicode/1f5d3.png
   comment: Google Calendar creado por <a href="https://twitter.com/Alba_Roza">Alba Roza</a>.<br />Lo nombramos porque tal vez se siguen<br/>creando eventos en ese calendario. 
+- title: Alexa Skill Conferencias Tecnológicas
+  url: https://www.amazon.es/dp/B082XHBJL5
+  img: https://github.githubassets.com/images/icons/emoji/unicode/1f5d3.png
+  collaborators:
+    - name: Alfredo Artiles
+      url: https://github.com/aartiles
+      img: https://avatars0.githubusercontent.com/u/92608?s=460&v=4
+  comment: Skill de Alexa <a href="https://github.com/aartiles/conferencias-tecnologicas">open source</a> que usa como fuente la agenda creada por Nicolás Patarino. 
 - title: Diversidad
   url: https://github.com/folkswhocode/awesome-diversity
   img: https://github.githubassets.com/images/icons/emoji/unicode/2728.png
