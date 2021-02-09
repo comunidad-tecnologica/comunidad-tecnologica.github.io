@@ -25,22 +25,27 @@ $> bundle exec jekyll serve
 Gracias a las contribuciones de todas estas personas maravillosas ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://rachelcarmena.github.io"><img src="https://avatars0.githubusercontent.com/u/22792183?v=4" width="100px;" alt="Rachel M. Carmena"/><br /><sub><b>Rachel M. Carmena</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/comunidad-tecnologica.github.io/commits?author=rachelcarmena" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://www.audiense.com"><img src="https://avatars3.githubusercontent.com/u/92608?v=4" width="100px;" alt="Alfredo Artiles"/><br /><sub><b>Alfredo Artiles</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/comunidad-tecnologica.github.io/commits?author=aartiles" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://fightingkitten.webcindario.com/"><img src="https://avatars3.githubusercontent.com/u/5872813?v=4" width="100px;" alt="nyan dev"/><br /><sub><b>nyan dev</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/comunidad-tecnologica.github.io/commits?author=mericp" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/yodra"><img src="https://avatars0.githubusercontent.com/u/7188403?v=4" width="100px;" alt="Yodra"/><br /><sub><b>Yodra</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/comunidad-tecnologica.github.io/commits?author=yodra" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://www.danielcastanera.com"><img src="https://avatars3.githubusercontent.com/u/6005590?v=4" width="100px;" alt="daniel castañera garrido"/><br /><sub><b>daniel castañera garrido</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/comunidad-tecnologica.github.io/commits?author=guldoe" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://beelzenef.github.io"><img src="https://avatars3.githubusercontent.com/u/6389665?v=4" width="100px;" alt="Elena G"/><br /><sub><b>Elena G</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/comunidad-tecnologica.github.io/commits?author=Beelzenef" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://rubocoptero.com"><img src="https://avatars2.githubusercontent.com/u/2010472?v=4" width="100px;" alt="Rubén Antón"/><br /><sub><b>Rubén Antón</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/comunidad-tecnologica.github.io/commits?author=rubocoptero" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://rachelcarmena.github.io"><img src="https://avatars0.githubusercontent.com/u/22792183?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rachel M. Carmena</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/comunidad-tecnologica.github.io/commits?author=rachelcarmena" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://www.audiense.com"><img src="https://avatars3.githubusercontent.com/u/92608?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alfredo Artiles</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/comunidad-tecnologica.github.io/commits?author=aartiles" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://fightingkitten.webcindario.com/"><img src="https://avatars3.githubusercontent.com/u/5872813?v=4?s=100" width="100px;" alt=""/><br /><sub><b>nyan dev</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/comunidad-tecnologica.github.io/commits?author=mericp" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/yodra"><img src="https://avatars0.githubusercontent.com/u/7188403?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yodra</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/comunidad-tecnologica.github.io/commits?author=yodra" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://www.danielcastanera.com"><img src="https://avatars3.githubusercontent.com/u/6005590?v=4?s=100" width="100px;" alt=""/><br /><sub><b>daniel castañera garrido</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/comunidad-tecnologica.github.io/commits?author=guldoe" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://beelzenef.github.io"><img src="https://avatars3.githubusercontent.com/u/6389665?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Elena G</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/comunidad-tecnologica.github.io/commits?author=Beelzenef" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://rubocoptero.com"><img src="https://avatars2.githubusercontent.com/u/2010472?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rubén Antón</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/comunidad-tecnologica.github.io/commits?author=rubocoptero" title="Documentation">📖</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://www.gorka.io"><img src="https://avatars0.githubusercontent.com/u/4482916?v=4" width="100px;" alt="Gorka López de Torre"/><br /><sub><b>Gorka López de Torre</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/comunidad-tecnologica.github.io/commits?author=gorkaio" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/ruckysolis"><img src="https://avatars1.githubusercontent.com/u/2883426?v=4" width="100px;" alt="ruckysolis"/><br /><sub><b>ruckysolis</b></sub></a><br /> <a href="https://github.com/comunidad-tecnologica/comunidad-tecnologica.github.io/commits?author=ruckysolis" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://www.gorka.io"><img src="https://avatars0.githubusercontent.com/u/4482916?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gorka López de Torre</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/comunidad-tecnologica.github.io/commits?author=gorkaio" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/ruckysolis"><img src="https://avatars1.githubusercontent.com/u/2883426?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ruckysolis</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/comunidad-tecnologica.github.io/commits?author=ruckysolis" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://www.qajungle.com"><img src="https://avatars.githubusercontent.com/u/6283257?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aritz Aguila</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/comunidad-tecnologica.github.io/commits?author=aaguila" title="Documentation">📖</a></td>
   </tr>
 </table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 

@@ -90,7 +90,17 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "aaguila",
+      "name": "Aritz Aguila",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6283257?v=4",
+      "profile": "http://www.qajungle.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "skipCi": true
 }
